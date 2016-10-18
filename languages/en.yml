@@ -15,7 +15,8 @@ menu:
   about: About
   search: Search
   projects: Projects
-  
+  cppe: CPPE
+
 sidebar:
   overview: Overview
   toc: Table of Contents
