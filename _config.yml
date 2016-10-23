@@ -29,10 +29,10 @@ canonical: true
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  cppe: /CPPE-Overview
+  cppe: /categories/CPPE/
   #categories: /categories
   about: /about
-  #archives: /archives
+  archives: /archives
   #projects: projects/
   #tags: /tags
   #commonweal: /404.html
